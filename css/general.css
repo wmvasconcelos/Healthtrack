@@ -1,0 +1,73 @@
+
+body
+{
+    text-align: inherit;
+}
+a
+{
+    color: inherit;
+}
+.corpo
+{
+    background-color: #444444;
+    color: white;
+   
+}
+.rodape
+{
+    background-color:black;
+    color: white;
+    text-align: justify;
+    width:100%;
+}
+.center-stuff
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+.buttons-std
+{
+    font-size: 10px;
+    color: white!important;
+    background-color: black;
+    border: black;
+    font-size: x-large;
+    border-color: black;
+    border-radius: 10px;
+}
+
+.inicial-text1
+{
+    background-image: url(../images/exercise.jpg);
+    background-color: #444444;
+    color:whitesmoke;
+    text-size-adjust: 20px;
+    text-align: left;
+    min-height: 70%;
+}
+.cabecalho
+{
+    background-color: black;
+    border-color: black;
+    color: white;
+    text-align: center;
+}
+
+.popup-01
+{
+    position: relative;
+    margin: 0 auto;
+    top: 25%;
+}
+
+.fundocinza
+{
+    background-color: #444444;
+}
+.btn-std1
+{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
